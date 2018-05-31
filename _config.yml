@@ -3,11 +3,11 @@ title: Yujie Blog
 SEOTitle: 梦溪笔谈 | Yujie Blog
 header-img: img/post-bg-desk.jpg
 email: yujie@eduxuexi.com
-description: "In Doing We Learn|珍惜身边爱你的人."
+description: "In Doing We Learn 珍惜身边爱你的人."
 keyword: "生活, Life, IT, Machine Learning, CFA, 量化金融, 统计学, 优化, Python, 数据科学"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://gengyujie.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/gengyujie/gengyujie.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
