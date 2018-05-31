@@ -57,10 +57,11 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: disqus_bId4FBjKBu
+ disqus_username: gengyujie
 
 # Gitalk
 gitalk:
+  enable: true
   clientID: 50e72135b0a0bdcc3675                            #生成的clientID
   clientSecret: 605c288b3d569f93b1ce343c73de2ce0509f33b5    #生成的clientSecret
   repo: gengyujie.github.io    #仓库名称
